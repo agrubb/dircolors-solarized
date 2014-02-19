@@ -451,3 +451,8 @@ EXEC 00;91  # Unix
 .3des 34
 .aes 34
 .enc 34
+
+# Make pickled python files looks like zip, et al
+.pck 0;95
+.npy 0;95
+.npz 0;95

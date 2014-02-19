@@ -277,4 +277,7 @@ EXEC 01;38;5;64
 .ogv 01;38;5;166
 .ogx 01;38;5;166
 
-
+# Make pickled python files looks like zip, et al
+.pck 01;38;5;61
+.npy 01;38;5;61
+.npz 01;38;5;61
